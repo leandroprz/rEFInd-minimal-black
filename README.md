@@ -1,6 +1,6 @@
 # Minimalistic black rEFInd theme
 
-[rEFInd](http://www.rodsbooks.com/refind/) is a simplistic boot manager for UEFI
+[rEFInd](https://rodsbooks.com/refind/) is a simplistic boot manager for UEFI
 based systems. This is a clean and minimal black theme for it.
 
 ![rEFInd Minimalistic](screenshot.webp)
